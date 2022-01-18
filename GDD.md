@@ -13,9 +13,11 @@ Drivers life nos lleva a un mapa ambientado en las costas de Italia, siendo noso
 
 ## Características clave
 **_1. Nueva franquicia_:**
+
 Nueva franquicia cogiendo el testigo de juegos que ya no existen en esta generación innovando en puntos como las físicas, gráficos etc..
 
 **_2. Gráficos y Físicas_:**
+
 Gráficos de última generación, comprados a la compañía de Turn10 junto al motor de físicas necesario.
 
 **_3. Sonido:_**
@@ -33,5 +35,8 @@ En este apartado tenemos una comparación directa con el juego Test Drive Unlimi
 Estas dos vienen unidas ya que en todo momento tendrás que estar conectado a la red. Podrás correr las carreras del modo historia en solitario pero estas te darán menos recompensas que si las haces con usuarios de la vida real. Haciendo así mas deseable correr contra otras personas que contra la máquina. 
 En el caso de que juguemos contra usuarios, se dividirán mediante su nivel demostrado para que así se consiga al menos sobre el papel una igualdad. Ya que tener competidores muy superiores o inferiores al nuestro podría arruinar la experiencia del juego.
 
-## Genero
+## Género
 Drivers Life es un juego de género de conducción, pero a su vez contiene también trazas de simulación y roleplay.
+
+## Plataforma
+El juego será lanzado de primeras para las consolas de actual generación(PS5/XBOX) y PC. Se estudiará en un futuro hacer una versión para Stadia o Xbox Cloud Gaming para el juego remoto.
