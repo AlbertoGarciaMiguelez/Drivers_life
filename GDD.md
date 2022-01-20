@@ -56,3 +56,9 @@ Lo principal del gameplay del videojuego consistirá en correr carreras de vehic
 En cuanto a la sensación de conducir buscamos hacer un juego que pueda contentar a los dos variantes de jugadores de este género, tanto simulación como arcade. En si el juego es de carácter mas arcade pero con las suficientes físicas y mecánicas para guiarlo un poco a la simulación, tal y como hace muy bien el _Forza_.
 
 **Roleplay/Vida real:** En este apartado tendremos una vida fuera de las carreras, aunque estas dos están ligadas directamente. Podremos disponer de nuestras casas para pasar tiempo con nuestros amigos, recorrer el mapa conociendo a gente conduciendo por su inmensidad de extensión. A la vez podremos ir a localizaciones donde se juntarán el grueso de la gente, tales como bares, discotecas etc. En nuestra mano está ir a estos sitios, estar en casa tranquilos con amigos o ir a correr carreras para poder ganar mas dinero o ir a comprar vehículos a los concesionarios. Todas estas interacciones serán en primera persona y tendremos que movernos con nuestro personaje siendo una especie de mezcla entre un _Second Life_ y el _TDU_.
+
+### Flujo del juego
+El flujo de juego de Drivers Life es totalmente lo opuesto a un juego lineal clásico, en ningún momento tendremos que seguir una especie de misiones guiadas entre ellas, si no que es el usuario el que decide en todo momento (exceptuando el tutorial) lo que quiere hacer.
+Empezaremos con un vehículo y casas básicos, ese será nuestro punto de inicio, pero después de eso nada está atado, podremos ir a donde queramos y sobretodo correr lo que queramos siempre y cuando tengamos el vehículo a la altura.
+El punto de avance para que el jugador entienda que está progresando, será el de tener mejores vehículos que dará espacio a mejores torneos, carreras etc. Además de un nivel de conducción que nos dará ciertas ventajas en regalos y también para poder desbloquear ciertos ítems en su mayoría estéticos.
+
