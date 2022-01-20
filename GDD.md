@@ -65,21 +65,37 @@ El punto de avance para que el jugador entienda que está progresando, será el 
 ### Lista de vehículos
 A continuación mostraremos la lista de vehículos inicial que tendrá el juego:
 **Coches:**
+
     2001	Acura	Integra Type-R
+
     2002	Acura	RSX Type-S
+
     2017	Acura	NSX
+
     1973	Alpine	A110 1600s
+
     2017	Alpine	A110
+
     2015	Alumi Craft	Class 10 Race Car
+
     1973	AMC	Gremlin X
+
     2554	AMG Transport Dynamics	M12S Warthog CST
+
     2018	Apollo	Intensa Emozione
+
     2013	Ariel	Atom 500 V8
+
     2016	Ariel	Nomad
+
     1964	Aston Martin	DB5
+
     2013	Aston Martin	V12 Vantage S
+
     2016	Aston Martin	Vantage GT12
+
     2017	Aston Martin	DB11
+    
     2019	Aston Martin	Vantage
     2019	Aston Martin	DBS Superleggera
     2017	Aston Martin	Vulcan AMR Pro
