@@ -510,3 +510,18 @@ A continuación mostraremos la lista de vehículos inicial que tendrá el juego:
     TRIUMPH TRIDENT 660
     YAMAHA MT-09
     YAMAHA R1
+
+### Localizaciones
+_A medida que se vayan diseñando las diferentes localidades pondremos muestras aquí_
+
+**Discotecas:**
+
+**Bares:**
+
+**Casas:**
+
+**Concesionarios:**
+
+**Casino:**
+
+**Mirador:**
