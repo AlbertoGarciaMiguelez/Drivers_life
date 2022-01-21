@@ -550,8 +550,8 @@ En el modo _multijugador_ este nivel será siempre el nivel Piloto ya que no se 
 Los controles predifinidos estarán basado en el mando de _Xbox Controller_, para las otras plataformas de consolas, los controles serian los mismos con la diferencia de cambiar el nombre del botón, pero la localizacion de estos seria la misma.
 En PC podriamos remapear estos controles a nuestro gusto.
 
-![Mando_Xbox](https://github.com/ricfdzgon/Drivers_life/blob/main/Imagenes/MandoXbox.png){#id .class width=50% height=50%}
-
+![Mando_Xbox](https://github.com/ricfdzgon/Drivers_life/blob/main/Imagenes/MandoXbox.png){width=50% height=50%}
+<img src = https://github.com/ricfdzgon/Drivers_life/blob/main/Imagenes/MandoXbox.png width=50% height=50%>
 
 
 
