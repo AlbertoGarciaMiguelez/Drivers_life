@@ -533,7 +533,7 @@ El jugador podrá moverse por el mapa disponible con un sistema clásico de movi
 **Movimiento vehículo -** Se sigue para este movimiento unas físicas simcade(una mezcla de físicas arcade y de simulación), haciendo que el vehículo siga un comportamiento muy similar al que seguiría en la vida real(incluidos accidentes), teniendo en cuenta fuerzas de gravedad por poner un ejemplo de todas las que se tienen que tener en cuenta.
 
 ### Inteligencia Artificial
-En la inteligencia artificial tendremos a los opentes que tendremos si decidimos competir sin ser onnline, o en el caso de online si la sala de la carrera no se llena pasado 5 minutos de espera.
+En la inteligencia artificial tendremos a los oponentes que tendremos si decidimos competir sin ser Online, o en el caso de Online si la sala de la carrera no se llena pasado 5 minutos de espera.
 
 **Tipos de dificultad:**
 
@@ -544,4 +544,4 @@ En la inteligencia artificial tendremos a los opentes que tendremos si decidimos
     Estrella Mundial
 
 Esta IA en el modo de _un jugador_ tendrá varios grados de dificultad que irán aprendiendo de tu estilo de conducción para hacerlo lo mas acorde a tu nivel, para que no sea ni muy sencillo ganarles pero que tampoco sea casi imposible. Esta IA será cada vez mas agresiva contra nosotros según aumente la dificultad, incluso haciendo que nos quieran sacar de pista para ganar ellos. Estos seguirán la trazada ideal de la carretera si no están en maniobras de adelanto.
-En el modo _multijugador_ este nivel será siempre el nivel **** ya que no se podría ajustar al nivel de todos los participantes reales de esta.
+En el modo _multijugador_ este nivel será siempre el nivel Piloto ya que no se podría ajustar al nivel de todos los participantes reales de esta.
