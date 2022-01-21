@@ -525,3 +525,8 @@ _A medida que se vayan diseñando las diferentes localidades pondremos muestras 
 **Casino:**
 
 **Mirador:**
+
+### Físicas del juego
+**Movimiento del personaje -** Este movimiento solo será disponible en sitios habilitados para ello, tales como los sitios para "socializar" como son los bares...etc.
+El jugador podrá moverse por el mapa disponible con un sistema clásico de movimiento en 360º, no se podrá correr ni saltar ya que no tendría sentido en un espacio de esas características.
+**Movimiento vehículo -** Se sigue para este movimiento unas físicas simcade(una mezcla de físicas arcade y de simulación), haciendo que el vehículo siga un comportamiento muy similar al que seguiría en la vida real(incluidos accidentes), teniendo en cuenta fuerzas de gravedad por poner un ejemplo de todas las que se tienen que tener en cuenta.
