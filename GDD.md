@@ -545,3 +545,14 @@ En la inteligencia artificial tendremos a los oponentes que tendremos si decidim
 
 Esta IA en el modo de _un jugador_ tendrá varios grados de dificultad que irán aprendiendo de tu estilo de conducción para hacerlo lo mas acorde a tu nivel, para que no sea ni muy sencillo ganarles pero que tampoco sea casi imposible. Esta IA será cada vez mas agresiva contra nosotros según aumente la dificultad, incluso haciendo que nos quieran sacar de pista para ganar ellos. Estos seguirán la trazada ideal de la carretera si no están en maniobras de adelanto.
 En el modo _multijugador_ este nivel será siempre el nivel Piloto ya que no se podría ajustar al nivel de todos los participantes reales de esta.
+
+### Controles
+Los controles predifinidos estarán basado en el mando de _Xbox Controller_, para las otras plataformas de consolas, los controles serian los mismos con la diferencia de cambiar el nombre del botón, pero la localizacion de estos seria la misma.
+En PC podriamos remapear estos controles a nuestro gusto.
+
+
+
+
+
+
+// Tendremos compatibilidad con volantes con la siguiente lista
