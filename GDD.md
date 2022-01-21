@@ -554,11 +554,11 @@ Tendremos compatibilidad con volantes de las principales marcas compatibles con 
 <img src = https://github.com/ricfdzgon/Drivers_life/blob/main/Imagenes/MandoXbox.png width=50% height=50%>
 
 #### Personaje
-Stick Izquierdo - Mover al personaje
-Stick Derecho - Rotar la cámara
-Pad Arriba/Abajo/Derecha/Izquierda - Animaciones de personaje que podremos configurar en la configuración
-Menú - Menú de opciones
-Botón de Vista - Aceptar interacción disponible
-A - Aceptar
-B - Salir/Volver Atrás
-Y - Cambiar Cámara
+    Stick Izquierdo - Mover al personaje
+    Stick Derecho - Rotar la cámara
+    Pad Arriba/Abajo/Derecha/Izquierda - Animaciones de personaje que podremos configurar en la configuración
+    Menú - Menú de opciones
+    Botón de Vista - Aceptar interacción disponible
+    A - Aceptar
+    B - Salir/Volver Atrás
+    Y - Cambiar Cámara
