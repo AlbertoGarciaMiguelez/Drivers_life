@@ -547,11 +547,18 @@ Esta IA en el modo de _un jugador_ tendrá varios grados de dificultad que irán
 En el modo _multijugador_ este nivel será siempre el nivel Piloto ya que no se podría ajustar al nivel de todos los participantes reales de esta.
 
 ### Controles
-Los controles predifinidos estarán basado en el mando de _Xbox Controller_, para las otras plataformas de consolas, los controles serian los mismos con la diferencia de cambiar el nombre del botón, pero la localizacion de estos seria la misma.
-En PC podriamos remapear estos controles a nuestro gusto.
+Los controles predefinidos estarán basado en el mando de _Xbox Controller_, para las otras plataformas de consolas, los controles serian los mismos con la diferencia de cambiar el nombre del botón, pero la localización de estos seria la misma.
+En PC podríamos re-mapear estos controles a nuestro gusto.
+Tendremos compatibilidad con volantes de las principales marcas compatibles con estas consolas(Thrusmaster,Logitech,Fanatec) con la siguiente lista:
 
-<img src = https://github.com/ricfdzgon/Drivers_life/blob/main/Imagenes/MandoXbox.png width=50% height=50% align="center">
+<img src = https://github.com/ricfdzgon/Drivers_life/blob/main/Imagenes/MandoXbox.png width=50% height=50%>
 
-
-
-// Tendremos compatibilidad con volantes con la siguiente lista
+#### Personaje
+Stick Izquierdo - Mover al personaje
+Stick Derecho - Rotar la cámara
+Pad Arriba/Abajo/Derecha/Izquierda - Animaciones de personaje que podremos configurar en la configuración
+Menú - Menú de opciones
+Botón de Vista - Aceptar interacción disponible
+A - Aceptar
+B - Salir/Volver Atrás
+Y - Cambiar Cámara
