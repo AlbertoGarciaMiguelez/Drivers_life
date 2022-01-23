@@ -563,10 +563,10 @@ Tendremos compatibilidad con volantes de las principales marcas compatibles con 
 ## Interfaz
 ### Diagramas de flujo
 #### Pantalla Inicial
-<img src = https://github.com/ricfdzgon/Drivers_life/blob/main/Imagenes/StartScreenFlow.jpg width=400px height=300px>
+<img src = https://github.com/ricfdzgon/Drivers_life/blob/main/Imagenes/StartScreenFlow.jpg width=800px height=400px>
 
 #### Pantalla Opciones
-<img src = https://github.com/ricfdzgon/Drivers_life/blob/main/Imagenes/OptionScreenFlow.jpg width=400px height=300px>
+<img src = https://github.com/ricfdzgon/Drivers_life/blob/main/Imagenes/OptionScreenFlow.jpg width=800px height=400px>
 
 #### Pantalla Menú juego
-<img src = https://github.com/ricfdzgon/Drivers_life/blob/main/Imagenes/MenuJuegoFlow.jpg width=400px height=300px>
+<img src = https://github.com/ricfdzgon/Drivers_life/blob/main/Imagenes/MenuJuegoFlow.jpg width=800px height=400px>
