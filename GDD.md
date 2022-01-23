@@ -531,7 +531,7 @@ Los controles predefinidos estarán basado en el mando de _Xbox Controller_, par
 En PC podríamos re-mapear estos controles a nuestro gusto.
 Tendremos compatibilidad con volantes de las principales marcas compatibles con estas consolas(Thrusmaster,Logitech,Fanatec) con la siguiente lista:
 
-<img src = https://github.com/ricfdzgon/Drivers_life/blob/main/Imagenes/MandoXbox.png width=30% height=30%>
+<img src = https://github.com/ricfdzgon/Drivers_life/blob/main/Imagenes/MandoXbox.png width=35% height=35%>
 
 #### Personaje
     Stick Izquierdo - Mover al personaje
@@ -563,5 +563,10 @@ Tendremos compatibilidad con volantes de las principales marcas compatibles con 
 ## Interfaz
 ### Diagramas de flujo
 #### Pantalla Inicial
+<img src = https://github.com/ricfdzgon/Drivers_life/blob/main/Imagenes/StartScreenFlow.jpg width=400px height=300px>
+
 #### Pantalla Opciones
+<img src = https://github.com/ricfdzgon/Drivers_life/blob/main/Imagenes/OptionScreenFlow.jpg width=400px height=300px>
+
 #### Pantalla Menú juego
+<img src = https://github.com/ricfdzgon/Drivers_life/blob/main/Imagenes/MenuJuegoFlow.jpg width=400px height=300px>
