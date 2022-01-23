@@ -226,13 +226,6 @@ A continuación mostraremos la lista de vehículos inicial que tendrá el juego:
     2020	Ford	#2069 Ford Performance Bronco R 'Welcome Pack'
     2020	Ford	Super Duty F-450 DRW PLATINUM
     2021	Ford	Bronco
-    2015	Formula Drift	#13 Ford Mustang
-    2016	Formula Drift	#530 HSV Maloo GEN-F
-    2006	Formula Drift	#43 Dodge Viper SRT10
-    2013	Formula Drift	#777 Chevrolet Corvette
-    2007	Formula Drift	#117 599 GTB Fiorano
-    1997	Formula Drift	#777 Nissan 240SX
-    2018	Formula Drift	#64 Nissan 370Z
     2018	Funco Motorsports	F9
     1983	GMC	Vandura G-1500
     2012	Hennessey	Venom GT
@@ -254,19 +247,6 @@ A continuación mostraremos la lista de vehículos inicial que tendrá el juego:
     2015	Honda	Civic Type R
     2018	Honda	Civic Type R
     2016	Honda	Civic Coupe GRC
-    1955	Hoonigan	Chevrolet Bel Air
-    1972	Hoonigan	Chevrolet Napalm Nova
-    1978	Hoonigan	Ford Escort RS1800
-    1965	Hoonigan	Ford Hoonicorn Mustang
-    1991	Hoonigan	Rauh-Welt Begriff Porsche 911 Turbo
-    1977	Hoonigan	GYMKHANA 10 Ford F-150 'Hoonitruck'
-    1991	Hoonigan	GYMKHANA 10 Ford Escort Cosworth Group A
-    1965	Hoonigan	GYMKHANA 10 Ford Hoonicorn Mustang
-    2016	Hoonigan	GYMKHANA 10 Ford Focus RS RX
-    1986	Hoonigan	Ford RS200 Evolution
-    1994	Hoonigan	Ford Escort RS Cosworth WRC “Cossie V2”
-    2011	Hot Wheels	Bone Shaker
-    1969	Hot Wheels	Twin Mill
     2014	HSV	GEN-F GTS
     2014	HSV	Limited Edition GEN-F GTS Maloo
     2006	HUMMER	H1 Alpha
@@ -551,7 +531,7 @@ Los controles predefinidos estarán basado en el mando de _Xbox Controller_, par
 En PC podríamos re-mapear estos controles a nuestro gusto.
 Tendremos compatibilidad con volantes de las principales marcas compatibles con estas consolas(Thrusmaster,Logitech,Fanatec) con la siguiente lista:
 
-<img src = https://github.com/ricfdzgon/Drivers_life/blob/main/Imagenes/MandoXbox.png width=50% height=50%>
+<img src = https://github.com/ricfdzgon/Drivers_life/blob/main/Imagenes/MandoXbox.png width=100px height=100px>
 
 #### Personaje
     Stick Izquierdo - Mover al personaje
@@ -562,3 +542,20 @@ Tendremos compatibilidad con volantes de las principales marcas compatibles con 
     A - Aceptar
     B - Salir/Volver Atrás
     Y - Cambiar Cámara
+
+#### Vehículo
+    Stick Izquierdo - Girar vehículo
+    Stick Derecho - Rotar la cámara
+    Pad Arriba/Abajo/Derecha/Izquierda - Interacciones por mensaje con otro usuarios de la partida
+    Menú - Menú de opciones
+    Botón de Vista - Aceptar interacción disponible
+    A - Freno de Mano
+    B - Subir marcha
+    X - Bajar marcha
+    Y - Cambiar Cámara
+    L1 - Claxon
+    L2 - Ráfagas
+    RB - Cambiar emisora radio
+    LB - Mirar atrás
+    RT - Acelerar
+    RB - Frenar/Dar marcha atrás
