@@ -570,3 +570,146 @@ Tendremos compatibilidad con volantes de las principales marcas compatibles con 
 
 #### Pantalla Menú juego
 <img src = https://github.com/ricfdzgon/Drivers_life/blob/main/Imagenes/MenuJuegoFlow.jpg width=800px height=400px>
+
+## Sonido y Música
+### Objetivo
+El objetivo principal en cuanto al sonido ambiental es recrear lo máximo posible la realidad incluyendo el sonido de los vehículos, después, en cuanto hablamos del sonido de música principalmente será música energética para dar mas énfasis en las carreras.
+### Efectos de sonido
+Estos los podremos dividir en 3:
+
+**Sonido ambiental:** Como ya mencionamos anteriormente, un equipo será el encargado de grabar en la localización escogida todo los sonidos ambientales durante todo el día para recopilar la mayor información posible, estos pasarán por el estudio de sonido para retoques y corregir sonidos no deseados en estos,se incluirán directamente en el juego para dar la firme sensación acústica de estar en eses sitios, así también distinguir bien si estamos en un sitio de montana o bien estamos en una ciudad.
+
+**Efectos de sonido:** Sonidos estándar cedidos por _Turn10_ tales como sonidos del tráfico, ruedas, choques..etc.
+
+**Vehículos:** Como en el sonido ambiental, un equipo al completo trabajará con las compañías de los vehículos o con poseedores de estos para recrear de la forma mas fidedigna posible el sonido que estos tendrán en el juego. En los vehículos en los que no podamos hacer esto por ser demasiado viejos o que no haya prácticamente unidades, tendremos que recurrir a grabaciones o retocar el sonido a partir de vehículos que tengan unas características similares.
+
+### Música
+En este apartado entremos varias estaciones de radio con distintos estilos de música, para que así se pueda poner el usuario el estilo que mas le guste.
+
+**Pulse:**
+    “El Punto Final” by Centavrvs
+    “Weekends” by Classixx, Local Natives
+    “Afrika” by Clubz
+    “Cool Up” by De Lux
+    “Suéltame, Bogotá” by Diamante Eléctrico
+    “Levitating” by Dua Lipa
+    “Heat Waves – Shakur Ahmad Remix” by Glass Animals, Shakur Ahmad
+    “All I Want” by Kid Moxie, LUXXURY
+    “The Valley Of The Pagans (ft. Beck)” by Gorillaz
+    “Straight To The Morning (ft. Jarvis Cocker)” by Hot Chip
+    “All Of The Time” by Jungle
+    “Feels So Good” by LUXXURY
+    “Full Heart Fancy” by Lucky Chops
+    “Everything at Your Feet (ft. The Chamanas)” by ODESZA
+    “Midnight Sun” by OTR, Ukiyo
+    “Look At The Sky” by Porter Robinson
+    “Where We Started” by PRXZM
+    “Hello Hello Hello” by Remi Wolf
+    “New Heartbreak” by Sad Alex
+    “Preach” by Saint Motel
+    “Fiebre” by Sotomayor
+    “Quema” by Sotomayor
+    “Sunshine (with The Knocks)” by Whethan
+    “Ohh My Ghosts” by Young & Sick
+
+**Bass Arena:**
+    “Joypunks” by Big Wild
+    “Get To Know You” by Dexter King
+    “Mrita (Margarita)” by CloudNone & Direct
+    “Channel 43 – Radio Edit” by deadmau5, Wolfgang Gartner
+    “Color” by Grant & Juneau
+    “Rock You (Lenno Remix)” by Dirty Loops, Lenno
+    “Baile Funk” by GAJATE
+    “Tell Me (Ellis Remix)” by Haywyre
+    “In The Summer (ft. Jaymes Young)” by Whethan
+    “Colours (ft. Olan)” by Mat Zo
+    “Everything You Are” by Midnight Kids
+    “Techtonic” by Metrik
+    “Into The Light” by Notaker
+    “Dreamcatcher (ft. MIKO) (Night Mix/Nightfall)” by Robotaki
+    “Fade” by Rome in Silver
+    “Roses – Imanbek Remix” by SAINt JHN, Imanbek
+    “Jungle Fury” by RIOT
+    “One More (ft. Nile Rodgers) – Mark Knight Remix” by SG Lewis, Nile Rodgers, Mark Knight
+    “Foolish Of Me (ft. Jonathan Mendelsohn)” by Seven Lions, Jason Ross, Crystal Skies
+
+**Block Party:**
+    “Intergalactic – Remastered” by Beastie Boys
+    “Platinum” by Big Freedia
+    “Soy Yo” by Bomba Estéreo
+    “I Know I Got It (ft. Haviah Mighty)” by Book
+    “Un Sueño (ft. Aloe Blacc)” by Ceci Bastida
+    “Turn The World Around” by Daemon
+    “Rocket Fuel (ft. De La Soul)” by DJ Shadow
+    “Brand New Phone” by Ellis, Pasha
+    “Industry Baby” by Lil Nas X & Jack Harlow
+    “Vamos” by Mexican Institute of Sound, BIA, Duckwrth
+    “Baila” by Monica Lionheart
+    “Say Hey!” by Outasight
+    “Juana La Cubana” by Ozomatli
+    “Carnaval Artificial (Out of The Sky)” by Random Recipe
+    “It’s Like That (Jason Nevins Remix)” by Run-D.M.C
+    “Star Dust” by Shwayze
+    “No Skips (ft. Ralph Real)” by Oddisee
+
+**XS:**
+    “Karma The Knife” by Angelica Garcia
+    “Do It Better” by Blah Blah Blahs
+    “You Can Get It (ft. K.Flay)” by Arkells
+    “Getaway” by Bite The Buffalo
+    “Teardrops” by Bring Me The Horizon
+    “10 Day Miracle Challenge” by Death Valley Girls
+    “Under The Sun” by DIIV
+    “La ciudad” by El Shirota
+    “Holding Poison” by Foo Fighters
+    “No Son of Mine” by Foo Fighters
+    “Unsaid” by Maxband
+    “I Wanna Connect” by Melted Brains
+    “Unperson” by Nothing But Thieves
+    “Live More” by Plague Vendor
+    “Antidote To Being Bored” by Oscar Lang
+    “New Comedown” by Plague Vendor
+    “Trouble’s Coming” by Royal Blood
+    “Freak” by SOFI TUKKER
+    “Mejor Que Nadie” by Technicolor Fabrics
+    “Caution” by The Killers
+    “Wild Child” by The Struts, Tom Morello
+    “Smile” by Wolf Alice
+
+**Hospital:**
+    “Zaichik” by Bop x Subwave
+    “Nocturna” by Camo & Krooked
+    “Unwritten” by Degs
+    “Naperone” by Etherwood
+    “Bandicoot” by Flava D
+    “Skyscraping” by Fred V
+    “Alone (ft. Ruth Royall)” by Grafix
+    “Black Magic” by Grafix, Dynamite MC
+    “Deckard’s Chords” by Hugh Hardie
+    “Communications” by Keeno
+    “Burn Out” by Kings Of The Rollers
+    “Boundless” by Logistics
+    “Another Star” by Makoto
+    “Trial Mountain (ft. Karina Ramage)” by Makoto, Mitekiss
+    “Route 174” by Metrik
+    “Utopia” by Metrik
+    “Second Time Around” by Nu:Tone
+    “Illusion Of Time” by S.P.Y.
+    “Magnetosphere” by Unglued
+    “Cielo” by Urbandawn
+    “Fly Away” by Urbandawn
+    “Turn Up” by Whiney
+    “Midwest Shuffle” by Winslow
+
+**Eterna:**
+    “Carmen” by Miguel Pacheco, Victor Flores, Alberto Cruzprieto, Cuarteto Latinoamericano
+    “Danse Macabre, Op. 40” by Royal Stockholm Philharmonic Orchestra, James DePreist
+    “Dios nunca muere” by Miguel Pacheco, Victor Flores, Alberto Cruzprieto, Cuarteto Latinoamericano
+    “La damnation de Faust, Op. 24, Part I Scene 3- Marche Hongroise (Hungarian March) Catalog #7041” by International Festival Orchestra, Milan Weber
+    “Nocturne No. 2 in E-Flat Major, Op. 9, No. 2” by Sandor Falvai
+    “Piano Concerto, Op. 22- III. Polonaise – Allegro Moderato” by Rodolfo Ritter, San Luis Potosí Symphony Orchestra, José Miramontes Zapata
+    “Sobre las Olas” by Mexico Festival Orchestra, Enrique Batiz
+    “Swan Lake, Op. 20a- Act II- By a Lake- Scene- The Swans Swim on The Lake” by Slovak Radio Symphony Orchestra, Ondrej Lenard
+    “The Planets, Op.32- 1. Mars, the Bringer of War” by Berliner Philharmoniker, Sir Colin Davis
+    “Water Music Suite No. 2 in D Major, HWV 349- II. Alla Hornpipee” by Capella Istropolitana, Bohdan Warchal
+
