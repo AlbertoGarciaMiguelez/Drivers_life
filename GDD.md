@@ -587,6 +587,7 @@ Estos los podremos dividir en 3:
 En este apartado entremos varias estaciones de radio con distintos estilos de música, para que así se pueda poner el usuario el estilo que mas le guste.
 
 **Pulse:**
+
     “El Punto Final” by Centavrvs
     “Weekends” by Classixx, Local Natives
     “Afrika” by Clubz
@@ -613,6 +614,7 @@ En este apartado entremos varias estaciones de radio con distintos estilos de m�
     “Ohh My Ghosts” by Young & Sick
 
 **Bass Arena:**
+
     “Joypunks” by Big Wild
     “Get To Know You” by Dexter King
     “Mrita (Margarita)” by CloudNone & Direct
@@ -634,6 +636,7 @@ En este apartado entremos varias estaciones de radio con distintos estilos de m�
     “Foolish Of Me (ft. Jonathan Mendelsohn)” by Seven Lions, Jason Ross, Crystal Skies
 
 **Block Party:**
+
     “Intergalactic – Remastered” by Beastie Boys
     “Platinum” by Big Freedia
     “Soy Yo” by Bomba Estéreo
@@ -653,6 +656,7 @@ En este apartado entremos varias estaciones de radio con distintos estilos de m�
     “No Skips (ft. Ralph Real)” by Oddisee
 
 **XS:**
+
     “Karma The Knife” by Angelica Garcia
     “Do It Better” by Blah Blah Blahs
     “You Can Get It (ft. K.Flay)” by Arkells
@@ -677,6 +681,7 @@ En este apartado entremos varias estaciones de radio con distintos estilos de m�
     “Smile” by Wolf Alice
 
 **Hospital:**
+
     “Zaichik” by Bop x Subwave
     “Nocturna” by Camo & Krooked
     “Unwritten” by Degs
@@ -702,6 +707,7 @@ En este apartado entremos varias estaciones de radio con distintos estilos de m�
     “Midwest Shuffle” by Winslow
 
 **Eterna:**
+
     “Carmen” by Miguel Pacheco, Victor Flores, Alberto Cruzprieto, Cuarteto Latinoamericano
     “Danse Macabre, Op. 40” by Royal Stockholm Philharmonic Orchestra, James DePreist
     “Dios nunca muere” by Miguel Pacheco, Victor Flores, Alberto Cruzprieto, Cuarteto Latinoamericano
