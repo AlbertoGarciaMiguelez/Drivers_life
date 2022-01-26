@@ -91,7 +91,7 @@ Drivers Life es un juego de género de conducción, pero a su vez contiene tambi
 El juego será lanzado de primeras para las consolas de actual generación(PS5/XBOX) y PC. Se estudiará en un futuro hacer una versión para Stadia o Xbox Cloud Gaming para el juego remoto.
 
 ### Arte del juego
-<img src = https://github.com/ricfdzgon/Drivers_life/blob/main/Imagenes/Promo1.png > <img src = https://github.com/ricfdzgon/Drivers_life/blob/main/Imagenes/Promo2.jpg >
+<img src = https://github.com/ricfdzgon/Drivers_life/blob/main/Imagenes/Promo1.png > <img src = https://github.com/ricfdzgon/Drivers_life/blob/main/Imagenes/Promo2.jpg > <img src = https://github.com/ricfdzgon/Drivers_life/blob/main/Imagenes/Promo3.jpg > <img src = https://github.com/ricfdzgon/Drivers_life/blob/main/Imagenes/Promo4.png > <img src = https://github.com/ricfdzgon/Drivers_life/blob/main/Imagenes/Promo5.jpg > <img src = https://github.com/ricfdzgon/Drivers_life/blob/main/Imagenes/Promo6.png >
 
 ## Mecánicas del videojuego
 
