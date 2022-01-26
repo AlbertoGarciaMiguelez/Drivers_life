@@ -719,3 +719,7 @@ En este apartado entremos varias estaciones de radio con distintos estilos de m�
     “The Planets, Op.32- 1. Mars, the Bringer of War” by Berliner Philharmoniker, Sir Colin Davis
     “Water Music Suite No. 2 in D Major, HWV 349- II. Alla Hornpipee” by Capella Istropolitana, Bohdan Warchal
 
+## Historia
+En cuanto a la historia, este juego no tendrá un modo estándar de historia, en donde te van poniendo misiones y tu vas avanzando en ella. En este juego la historia la "escribe tu" ya que de ti depende a donde ir y que hacer en todo momento.
+El único punto de historia que tendría sería al inicio de la partida, donde se nos mostraría a nuestro personaje llegar en avión al aeropuerto de la ciudad, donde nos recibirá la creadora del campeonato.
+Acto seguido nos dará un coche a elegir (algo muy habitual en este tipo de juegos), y una casa básica para poder asentarse. Una vez esto ya somos totalmente libres por el mapa sin ataduras en temas de historia.
