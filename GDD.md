@@ -723,3 +723,8 @@ En este apartado entremos varias estaciones de radio con distintos estilos de m�
 En cuanto a la historia, este juego no tendrá un modo estándar de historia, en donde te van poniendo misiones y tu vas avanzando en ella. En este juego la historia la "escribe tu" ya que de ti depende a donde ir y que hacer en todo momento.
 El único punto de historia que tendría sería al inicio de la partida, donde se nos mostraría a nuestro personaje llegar en avión al aeropuerto de la ciudad, donde nos recibirá la creadora del campeonato.
 Acto seguido nos dará un coche a elegir (algo muy habitual en este tipo de juegos), y una casa básica para poder asentarse. Una vez esto ya somos totalmente libres por el mapa sin ataduras en temas de historia.
+
+## Resumen de los niveles
+La forma de avanzar consiste en ir subiendo de nivel nuestro personaje. Esto se hará de dos formas, carreras comunes o carreras rápidas con otros jugadores.
+Cada vez que subamos de nivel iremos desbloqueando mas carreras, además de eso cada semana se pondrán para todo el mundo unas carreras en específico que solo se podrá jugar en modo Online, las cuales valdrán mas para el tema de las recompensas y demás.
+La forma de ver a nuestro personaje es esta, subir de nivel e ir comprando mejores coches y casas.
