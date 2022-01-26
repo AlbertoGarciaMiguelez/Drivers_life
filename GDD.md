@@ -39,7 +39,7 @@ Estas dos vienen unidas ya que en todo momento tendrás que estar conectado a la
 En el caso de que juguemos contra usuarios, se dividirán mediante su nivel demostrado para que así se consiga al menos sobre el papel una igualdad. Ya que tener competidores muy superiores o inferiores al nuestro podría arruinar la experiencia del juego.
 
 ### Género
-Drivers Life es un juego de género de conducción, pero a su vez contiene también trazas de simulación y roleplay.
+Drivers Life es un juego de género de conducción, pero a su vez contiene también trazas de simulación, roleplay y MMO.
 
 ### Plataforma
 El juego será lanzado de primeras para las consolas de actual generación(PS5/XBOX) y PC. Se estudiará en un futuro hacer una versión para Stadia o Xbox Cloud Gaming para el juego remoto.
@@ -728,3 +728,9 @@ Acto seguido nos dará un coche a elegir (algo muy habitual en este tipo de jueg
 La forma de avanzar consiste en ir subiendo de nivel nuestro personaje. Esto se hará de dos formas, carreras comunes o carreras rápidas con otros jugadores.
 Cada vez que subamos de nivel iremos desbloqueando mas carreras, además de eso cada semana se pondrán para todo el mundo unas carreras en específico que solo se podrá jugar en modo Online, las cuales valdrán mas para el tema de las recompensas y demás.
 La forma de ver a nuestro personaje es esta, subir de nivel e ir comprando mejores coches y casas.
+
+## Análisis del mercado
+### Target del mercado
+_Drivers Life_ es un juego multiplataforma, esto es así para intentar llegar al máximo número de personas, ya que para nuestro juego es primordial tener una gran cantidad de jugadores, ya que se parece bastante al estilo de juego de un MMO.
+A partir de ahí nuestro objetivo principal es llegar a los jugadores que suelan jugar a juegos de conducción o que no tengan un rechazo por estos, aunque no es primordial esto ya que incluso jugadores casual podrán jugar el juego y pasarlo bien con sus amigos.
+En cuanto al rango de edad el target será publico joven en torno los 16-30.
